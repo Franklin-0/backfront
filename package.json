@@ -11,6 +11,16 @@
   "author": "'franklin njoroge',",
   "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5"
-  }
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franklin-0/backfront.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Franklin-0/backfront/issues"
+  },
+  "homepage": "https://github.com/Franklin-0/backfront#readme"
 }
